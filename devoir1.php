@@ -1,7 +1,7 @@
 /*  
 NOMS DU BINOME :
                 ACHOUR FAOUZI
-                ABDELLAH BIROUK
+                BIROUK ABDELLAH 
 GROUPE G1
 */ 
 //EXERCICE1
