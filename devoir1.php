@@ -1,3 +1,9 @@
+/*  
+NOMS DU BINOME :
+                ACHOUR FAOUZI
+                ABDELLAH BIROUK
+GROUPE G1
+*/ 
 //EXERCICE1
 
 
