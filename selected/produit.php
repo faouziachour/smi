@@ -11,7 +11,7 @@
 		<div id="header_inside">
 			<img src="images/header.jpg" alt="setalpm" width="999" height="222" border="0" usemap="#Map"><br>																																										
 			<ul id="menu" style="background-color: #F0F8FF;">
-				<li><a href="index.php" >Home Page</a></li>
+				<li><a href="home.php" >Home Page</a></li>
 				<li><a href="produit.php" >Nos Produits</a></li>
 				<li><a href="contacter.php" > Nous Contacter</a></li>
 				<li><a href="rapport.php" >Rapport</a></li>
@@ -80,7 +80,7 @@
 					
 					
 				</div>
-    </div></center><p></p><center>Copyright © </center> <p></p>					                                                                                                                                                                                                         																																																				
+    </div></center><p></p><center>Copyright Â© </center> <p></p>					                                                                                                                                                                                                         																																																				
 		
 	</div>
     
